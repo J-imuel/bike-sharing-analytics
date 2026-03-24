@@ -1,0 +1,8 @@
+# Environment Requirements
+
+- Google BigQuery account (for SQL queries)
+- Tableau Desktop (for dashboard visualization)
+
+# Optional (if running Python scripts)
+pandas
+google-cloud-bigquery
